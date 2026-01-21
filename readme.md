@@ -1,14 +1,4 @@
-## 🌟 WELCOME TO ( সহজ সরল সিম্পল ) ASSIGNMENT-002 😎
 
-### 📅 Deadline For 60 marks: 25th July, 2025 (11:59 pm ⏱️)
-
-### 📅 Deadline For 50 marks: 26th July, 2025 (11:59 pm ⏱️)
-
-### 📅 Deadline For 30 marks:\*\* Any time after 26th July.
-
----
-
-## ✅ Main Requirements (50 Marks)
 
 ### 1. Navbar
 
@@ -69,7 +59,6 @@
 
 ---
 
-## 🧪 Challenges Part ( 10 Mark)
 
 ### Latest Deal Section
 
@@ -86,10 +75,6 @@
 
 ---
 
-## 🕛 Optional Part ( 0 Marks)
-
-`⚠️ You wont get any support for Optional part. Search Google and try it yourself`
-
 - Create an Animation for Trusted Plant Lover Badge
 
   - It will Spin infinite times
@@ -102,20 +87,5 @@
 - CSS (Vanilla/ Talwind CSS only)
 - ⚠️ **No libraries (e.g., DaisyUI, Flowbite) allowed.**
 
----
 
-## 📌 Rules
 
-- ✅ Minimum **5 meaningful commits** required.
-- ❌ No Lorem Ipsum or dummy placeholder text. Use relevant content only.
-
----
-
-## 🔗 What to Submit
-
-- 📂 **GitHub Repository:**
-- 🌐 **Live Link:**
-
----
-
-# Let's Code and Achieve your Dream 🎯
